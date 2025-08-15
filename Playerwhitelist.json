@@ -1,1 +1,16 @@
-unset, adding whitelists in 1 hour or two
+{
+  "WhitelistedUsers": {
+    "5157703980": {
+      "attackable": false,
+      "level": 1,
+      "tags": [
+        {
+          "text": "CLOSETER",
+          "color": [
+            250,
+            50,
+            56
+          ]
+        }
+      ]
+    },
