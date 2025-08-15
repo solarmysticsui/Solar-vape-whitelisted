@@ -14,3 +14,19 @@
         }
       ]
     },
+    {
+  "WhitelistedUsers": {
+    "3755262824": {
+      "attackable": false,
+      "level": 2,
+      "tags": [
+        {
+          "text": "SOLAR VAPE OWNER",
+          "color": [
+            250,
+            50,
+            56
+          ]
+        }
+      ]
+    },
